@@ -1,0 +1,12 @@
+﻿  hw07.cpp
+c:\users\antoi\desktop\nyu\sophomore\semester 1\oop\homework\hw07\hw07\protector.h(18): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  Protector.cpp
+c:\users\antoi\desktop\nyu\sophomore\semester 1\oop\homework\hw07\hw07\protector.h(18): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\antoi\desktop\nyu\sophomore\semester 1\oop\homework\hw07\hw07\protector.cpp(63): warning C4244: '-=': conversion from 'double' to 'int', possible loss of data
+  Noble.cpp
+c:\users\antoi\desktop\nyu\sophomore\semester 1\oop\homework\hw07\hw07\protector.h(18): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\antoi\desktop\nyu\sophomore\semester 1\oop\homework\hw07\hw07\noble.cpp(109): warning C4244: 'return': conversion from 'const double' to 'int', possible loss of data
+c:\users\antoi\desktop\nyu\sophomore\semester 1\oop\homework\hw07\hw07\noble.cpp(114): warning C4244: 'return': conversion from 'const double' to 'int', possible loss of data
+  Generating Code...
+  hw07.vcxproj -> C:\Users\antoi\Desktop\NYU\Sophomore\Semester 1\OOP\Homework\hw07\Debug\hw07.exe
+  hw07.vcxproj -> C:\Users\antoi\Desktop\NYU\Sophomore\Semester 1\OOP\Homework\hw07\Debug\hw07.pdb (Partial PDB)

@@ -1,0 +1,4 @@
+﻿  rec05.cpp
+c:\users\antoi\desktop\nyu\sophomore\semester 1\oop\labs\rec05\rec05\rec05.cpp(44): warning C4018: '<': signed/unsigned mismatch
+  rec05.vcxproj -> C:\Users\antoi\Desktop\NYU\Sophomore\Semester 1\OOP\Labs\rec05\Debug\rec05.exe
+  rec05.vcxproj -> C:\Users\antoi\Desktop\NYU\Sophomore\Semester 1\OOP\Labs\rec05\Debug\rec05.pdb (Partial PDB)

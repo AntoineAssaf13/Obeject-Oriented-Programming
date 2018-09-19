@@ -1,0 +1,6 @@
+﻿  hw05.cpp
+c:\users\antoi\desktop\nyu\sophomore\semester 1\oop\homework\hw05\hw05\hw05.cpp(44): warning C4244: '-=': conversion from 'double' to 'int', possible loss of data
+c:\users\antoi\desktop\nyu\sophomore\semester 1\oop\homework\hw05\hw05\hw05.cpp(259): warning C4018: '<': signed/unsigned mismatch
+c:\users\antoi\desktop\nyu\sophomore\semester 1\oop\homework\hw05\hw05\hw05.cpp(266): warning C4018: '<': signed/unsigned mismatch
+  hw05.vcxproj -> C:\Users\antoi\Desktop\NYU\Sophomore\Semester 1\OOP\Homework\hw05\Debug\hw05.exe
+  hw05.vcxproj -> C:\Users\antoi\Desktop\NYU\Sophomore\Semester 1\OOP\Homework\hw05\Debug\hw05.pdb (Partial PDB)

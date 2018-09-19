@@ -1,0 +1,5 @@
+﻿  polynomial.cpp
+c:\users\antoi\desktop\nyu\sophomore\semester 1\oop\homework\hw08\hw08\polynomial.cpp(148): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "stdafx.h"' to your source?
+  hw08.cpp
+c:\users\antoi\desktop\nyu\sophomore\semester 1\oop\homework\hw08\hw08\hw08.cpp(72): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "stdafx.h"' to your source?
+  Generating Code...

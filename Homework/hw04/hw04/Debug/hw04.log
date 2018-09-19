@@ -1,0 +1,4 @@
+﻿  hw04.cpp
+c:\users\antoi\desktop\nyu\sophomore\semester 1\oop\homework\hw04\hw04\hw04.cpp(44): warning C4244: '-=': conversion from 'double' to 'int', possible loss of data
+  hw04.vcxproj -> C:\Users\antoi\Desktop\NYU\Sophomore\Semester 1\OOP\Homework\hw04\Debug\hw04.exe
+  hw04.vcxproj -> C:\Users\antoi\Desktop\NYU\Sophomore\Semester 1\OOP\Homework\hw04\Debug\hw04.pdb (Partial PDB)

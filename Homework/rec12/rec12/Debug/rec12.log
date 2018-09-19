@@ -1,0 +1,8 @@
+﻿  rec12.cpp
+c:\users\antoi\desktop\nyu\sophomore\semester 1\oop\homework\rec12\rec12\rec12.cpp(289): warning C4018: '<': signed/unsigned mismatch
+c:\users\antoi\desktop\nyu\sophomore\semester 1\oop\homework\rec12\rec12\rec12.cpp(292): warning C4018: '<': signed/unsigned mismatch
+c:\users\antoi\desktop\nyu\sophomore\semester 1\oop\homework\rec12\rec12\rec12.cpp(294): warning C4018: '<': signed/unsigned mismatch
+c:\users\antoi\desktop\nyu\sophomore\semester 1\oop\homework\rec12\rec12\rec12.cpp(163): warning C4172: returning address of local variable or temporary: newIter
+c:\users\antoi\desktop\nyu\sophomore\semester 1\oop\homework\rec12\rec12\rec12.cpp(175): warning C4172: returning address of local variable or temporary: newIter
+  rec12.vcxproj -> C:\Users\antoi\Desktop\NYU\Sophomore\Semester 1\OOP\Homework\rec12\Debug\rec12.exe
+  rec12.vcxproj -> C:\Users\antoi\Desktop\NYU\Sophomore\Semester 1\OOP\Homework\rec12\Debug\rec12.pdb (Partial PDB)
